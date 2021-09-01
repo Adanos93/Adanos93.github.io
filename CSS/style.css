@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Orangejuice";
+    src: url("fonts/orange juice 2.0.ttf");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Mango";
+    src: url("fonts/Racy\ Mango\ [Regular]\ Font\ by\ 7NTypes.otf");
+    font-weight: 500;
+}
+
+h1 {
+    color: #008000;
+    font-family: Orangejuice;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    color: #ff0000;
+    font-family: Mango
+}
+ p {
+    color: blue;
+    font-size: 12px;
+    font-family: fantasy;
+    margin: 10px 0px;
+}
+.vastag{
+    font-style: italic;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h3 {
+    color: seagreen;
+    font-family: Mango;
+}
+#valamihosszu{
+    color: rgb(20, 160, 148);
+}
+.image_div{
+    background-color: rgb(25, 228, 52);
+    border-top: dashed 5px black;
+    padding-top: 2px;
+}
+
+img{
+    height: 200px;
+    box-shadow: 3px 3px 10px blue;
+    margin: 1%;
+    border-radius: 10px;
+}
